@@ -12,3 +12,6 @@ export const Square = ({ children, isSelected, updateBoard, index}) => {
       </div>
     )
   }
+
+
+  
